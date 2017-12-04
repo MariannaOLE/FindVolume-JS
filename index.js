@@ -62,3 +62,9 @@ function findVolume(width, height, length) {
 
 findVolume(10, 5, 3);
 
+function findVolume(y, x) {
+    return y * x
+}
+findVolume(5, 5*2);
+
+
