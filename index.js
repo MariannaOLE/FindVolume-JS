@@ -67,4 +67,9 @@ function findVolume(y, x) {
 }
 findVolume(5, 5*2);
 
+function myFunction(name) {
+    return "Hello " + name;
+}
+   myFunction("John");
+
 
